@@ -57,7 +57,7 @@
     "d3"
   ],
   "dependencies": {
-    "broccoli-funnel": "^2.0.0",
+    "broccoli-funnel": "^2.0.2",
     "broccoli-merge-trees": "^3.0.0",
     "d3": "^5.0.0",
     "d3-selection-multi": "^1.0.1",
